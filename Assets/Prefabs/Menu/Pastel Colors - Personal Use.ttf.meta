@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5c0cba9d2046a5248b97ef2418783641
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pastel Colors
+  fontNames:
+  - Pastel Colors
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c1f563feb3a77b14e9a7f9b1f571fa56, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
